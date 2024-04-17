@@ -1,4 +1,4 @@
-name: CustomerClassifier
+name: RFM
 channels:
     - conda-forge
     - defaults
