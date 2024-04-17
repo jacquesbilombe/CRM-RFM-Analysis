@@ -1,6 +1,6 @@
 # CustomerClassifier
 
-CustomerClassifier is a Python project to classify buyers into various categories such as t-shirts, blazers, dresses, and more. It utilizes machine learning algorithms to analyze and recognize patterns in the dataset, allowing for accurate classification. This project provides a convenient solution for automating the categorization of customers based on historical purchase behavior, which can be useful in various applications such as e-commerce platforms, fashion analysis, and inventory management or even for advanced CRM (Customer Relationship Management) analysis.
+The automotive industry is dynamic and highly competitive, with manufacturers and dealerships constantly seeking innovative ways to attract and retain customers. This project focuses on leveraging data-driven techniques to analyze automobile sales data and extract valuable insights to inform decision-making and drive business growth. The dataset used comprises historical automobile sales data, providing a comprehensive view of customer interactions with the dealership. By employing RFM segmentation combined with machine learning algorithms, we aim to understand customer behavior, optimize marketing efforts, and maximize profitability in the automotive sales industry.
 
 ## Prerequisites
 
