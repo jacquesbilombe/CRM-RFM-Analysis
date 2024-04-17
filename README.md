@@ -75,18 +75,18 @@ conda activate RFM
 ### **4. Run FashionClassifier**
 
 ```bash
-python main.py FLAG "train_folder" "teste_folder" "images_label_and_id.csv"
+python main.py FLAG "database.csv"
 ```
 
 Terminal Example:
 
 ```bash
-python main.py 0 "/compressed_images" "/original_images" "images.csv"
+python main.py 0 "dataset.csv"
 ```
 
 Obs: 
 - FLAG: 0 to use the trained ML model and 1 to train the ML model again. 
-- train_folder && teste_folder && images_label_and_id: if the line is empty "", the code will use the project dataset
+- Dataset (Yours): if the line is empty "", the code will use the project dataset
 
 ------------
 ### All
