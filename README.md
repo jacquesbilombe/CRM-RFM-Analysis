@@ -7,18 +7,7 @@ CustomerClassifier is a Python project to classify buyers into various categorie
 Before running CustomerClassifier, make sure you have the following requirements:
 
 - Python 3.9 or higher
-- OpenCV (cv2)
   
-You can install OpenCV using pip:
-
-```bash
-   pip install opencv-python
-   ```
-If you're using Google Colab, you can install OpenCV using the following command in a code cell:
-
-```bash
-   !pip install opencv-python
-   ```
 
 ## Google Colab
 
