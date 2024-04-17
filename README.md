@@ -1,4 +1,4 @@
-# FashionClassifier
+# CustomerClassifier
 
 CustomerClassifier is a Python project to classify buyers into various categories such as t-shirts, blazers, dresses, and more. It utilizes machine learning algorithms to analyze and recognize patterns in the dataset, allowing for accurate classification. This project provides a convenient solution for automating the categorization of customers based on historical purchase behavior, which can be useful in various applications such as e-commerce platforms, fashion analysis, and inventory management or even for advanced CRM (Customer Relationship Management) analysis.
 
