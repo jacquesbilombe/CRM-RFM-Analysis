@@ -14,7 +14,7 @@ Before running CustomerClassifier, make sure you have the following requirements
 
 ## Local Installation
 
-To get started with FashionClassifier, follow these steps:
+To get started with CustomerClassifier, follow these steps:
 
 ### **1. Open a shell and clone this repo**
 
@@ -22,7 +22,7 @@ To get started with FashionClassifier, follow these steps:
 git clone https://github.com/jacquesbilombe/CustomerClassifier
 ```
 
-### **2. Create FashionClassifier environment.**
+### **2. Create CustomerClassifier environment.**
 
 #### **2.1 Install make.**
 * **For Windows:**
@@ -61,7 +61,7 @@ If you don't have Anaconda, see how to install it here https://docs.anaconda.com
 
 ### **3. Conda Torus environment creation.**
 
-Go to FashionClassifier/ folder and run the following code in Anaconda Prompt to create and install all pre-requirements
+Go to CustomerClassifier/ folder and run the following code in Anaconda Prompt to create and install all pre-requirements
 
 ```bash
 cd CustomerClassifier
